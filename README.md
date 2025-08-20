@@ -1,6 +1,8 @@
 # Oracle Next Education - Challenge Forum Hub
 Challenge Forum Hub parte do programa ONE da Oracle em parceria com a Alura
 
+![Insignia do Desafio](src/main/resources/Badge-Spring.png)
+
 ---
 
 ## Sobre o projeto
